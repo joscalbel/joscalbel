@@ -2,7 +2,7 @@
 
 ### Desarrollador Software / Full Stack Developer
 
-¡Bienvenido/a a mi perfil de GitHub! Apasionado del desarrollo de software, orientado al desarrollo Web y Full Stack, siempre en constante aprendizaje y buscando crear soluciones eficientes.
+¡Bienvenido/a a mi perfil de GitHub! Apasionado del desarrollo de software y la tecnología, con base en sistemas y redes, y enfocado en el desarrollo Web y Full Stack. Siempre en constante aprendizaje y buscando crear soluciones eficientes.
 
 ---
 
@@ -28,6 +28,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📜 Formación y Certificaciones
+
+- 🎓 **Técnico en Sistemas Microinformáticos y Redes (SMR)** — *IES L'Estació*
+- 🎓 **[Formación Actual, ej: Técnico Superior en DAW]** — *[Centro de estudios]* *(En curso)*
+- 📜 **[Nombre del Curso / Certificado, ej: Curso Completo de Node.js y Express]** — *[Plataforma, ej: Udemy / Coursera / OpenBootcamp]* ([Ver Certificado](https://link-a-tu-certificado.com))
 
 ---
 
