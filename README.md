@@ -1,8 +1,17 @@
-# ¡Hola, soy Jose Calatayud Bellod! 👋
+# ¡Hola, soy Jose Calatayud Bellod! 👋 
+
 ![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoscalbel&count_bg=%23007ACC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
+
 ### Desarrollador Software / Full Stack Developer
 
 ¡Bienvenido/a a mi perfil de GitHub! Apasionado del desarrollo de software y la tecnología, con base en sistemas y redes, y enfocado en el desarrollo Web y Full Stack. Siempre en constante aprendizaje y buscando crear soluciones eficientes.
+
+---
+
+## 👤 Sobre mí
+
+- 🌍 **Idiomas:** Castellano (Nativo), Valenciano / Catalán (Nativo), Inglés.
+- 🤝 **Soft Skills:** Trabajo en equipo, resolución de problemas, adaptabilidad y aprendizaje autodidacta.
 
 ---
 
@@ -33,8 +42,8 @@
 
 ## 📜 Formación y Certificaciones
 
+- 🎓 **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** — *IES L'Estació* *(En curso)*
 - 🎓 **Técnico en Sistemas Microinformáticos y Redes (SMR)** — *IES L'Estació*
-- 🎓 **[Formación Actual, ej: Técnico Superior en DAW]** — *IES L'Estació* *(En curso)*
 
 ---
 
@@ -50,11 +59,17 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joscalbel&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joscalbel&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📬 Contacto
 
-- **LinkedIn:** [Jose Calatayud Bellod](https://linkedin.com/in/el-teu-perfil)
+- **LinkedIn:** [Jose Calatayud Bellod](https://linkedin.com/in/tu-perfil)
 - **Correo electrónico:** [josecalatayud5@gmail.com](mailto:josecalatayud5@gmail.com)
+
+---
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
