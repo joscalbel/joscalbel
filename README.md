@@ -1,6 +1,7 @@
 # ¡Hola, soy Jose Calatayud Bellod! 👋 
 
-![Visitas](https://img.shields.io/badge/Visitas-Perfil_GitHub-007ACC?style=flat&logo=github)
+![Visitas](https://profile-counter.glitch.me/joscalbel/count.svg)
+
 ### Desarrollador Software / Full Stack Developer
 
 ¡Bienvenido/a a mi perfil de GitHub! Apasionado del desarrollo de software y la tecnología, con base en sistemas y redes, y enfocado en el desarrollo Web y Full Stack. Siempre en constante aprendizaje y buscando crear soluciones eficientes.
