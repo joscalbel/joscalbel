@@ -1,16 +1,53 @@
-## Hi there 👋
+# ¡Hola, soy Jose Calatayud Bellod! 👋
 
-<!--
-**joscalbel/joscalbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Software / Full Stack Developer
 
-Here are some ideas to get you started:
+¡Bienvenido/a a mi perfil de GitHub! Apasionado del desarrollo de software, orientado al desarrollo Web y Full Stack, siempre en constante aprendizaje y buscando crear soluciones eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### Lenguajes de Programación
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Backend & Frontend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+### Herramientas y Entornos
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 En lo que estoy enfocado
+
+- 🚀 Desarrollando proyectos Full Stack aplicando **Node.js, Express, React y PHP**.
+- 🌱 **Actualmente aprendiendo:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) y ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) para enriquecer la calidad de mis aplicaciones.
+- 💡 Preparando mis primeros proyectos para publicar próximamente en repositorios públicos.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joscalbel&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📬 Contacto
+
+- **LinkedIn:** [Jose Calatayud Bellod](https://linkedin.com/in/el-teu-perfil)
+- **Correo electrónico:** [el.teu.correu@exemple.com](mailto:el.teu.correu@exemple.com)
