@@ -1,6 +1,6 @@
 # ¡Hola, soy Jose Calatayud Bellod! 👋 
 
-![Visitas](https://profile-counter.glitch.me/joscalbel/count.svg)
+![Perfil de GitHub](https://img.shields.io/badge/Perfil-GitHub_Activo-007ACC?style=flat&logo=github)
 
 ### Desarrollador Software / Full Stack Developer
 
