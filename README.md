@@ -34,8 +34,7 @@
 ## 📜 Formación y Certificaciones
 
 - 🎓 **Técnico en Sistemas Microinformáticos y Redes (SMR)** — *IES L'Estació*
-- 🎓 **[Formación Actual, ej: Técnico Superior en DAW]** — *[Centro de estudios]* *(En curso)*
-- 📜 **[Nombre del Curso / Certificado, ej: Curso Completo de Node.js y Express]** — *[Plataforma, ej: Udemy / Coursera / OpenBootcamp]* ([Ver Certificado](https://link-a-tu-certificado.com))
+- 🎓 **[Formación Actual, ej: Técnico Superior en DAW]** — *IES L'Estació* *(En curso)*
 
 ---
 
