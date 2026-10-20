@@ -50,4 +50,4 @@
 ## 📬 Contacto
 
 - **LinkedIn:** [Jose Calatayud Bellod](https://linkedin.com/in/el-teu-perfil)
-- **Correo electrónico:** [el.teu.correu@exemple.com](mailto:el.teu.correu@exemple.com)
+- **Correo electrónico:** [josecalatayud5@gmail.com](mailto:josecalatayud5@gmail.com)
